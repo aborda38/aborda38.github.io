@@ -8,3 +8,5 @@ in the web site below:
 https://www.practicepython.org/
 
 More about me. Follow me at github.com/aborda38/
+
+Today, I'm learning git and github
