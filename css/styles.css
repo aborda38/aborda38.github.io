@@ -1,6 +1,7 @@
 body
 {
-    columns: #333333;;
+    background: #000;
+    color: black;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 16px;
@@ -15,6 +16,8 @@ body
     margin: 0;
     font-weight: bold;
     padding: 0.5em;
+    text-align: left;
+    font-size:xx-large;
 
 }
 #header #tagline
@@ -23,6 +26,12 @@ body
     font-weight: normal;
     font-size: 0.8em;
 
+}
+
+#header #logo
+{
+    width: 50px;
+    vertical-align: middle;
 }
 
 #container
@@ -36,6 +45,10 @@ body
 }
 #container h1
 {
-    font-size: larger;
-    color: black;
+    font-size: xx-large;
+}
+
+#post
+{
+    background-color:  #ffffff  ;
 }
