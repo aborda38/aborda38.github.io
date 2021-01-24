@@ -1,5 +1,6 @@
 body
 {
+    background: #000;
     color: rebeccapurple;
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -15,6 +16,8 @@ body
     margin: 0;
     font-weight: bold;
     padding: 0.5em;
+    text-align: left;
+    font-size:xx-large;
 
 }
 #header #tagline
@@ -23,6 +26,12 @@ body
     font-weight: normal, bold;
     font-size: 0.8em;
 
+}
+
+#header #logo
+{
+    width: 50px;
+    vertical-align: middle;
 }
 
 #container
@@ -37,4 +46,9 @@ body
 #container h1
 {
     font-size: xx-large;
+}
+
+#post
+{
+    background-color:  #ffffff  ;
 }
