@@ -51,4 +51,14 @@ body
 #post
 {
     background-color:  #ffffff  ;
+    font-size: larger;
+    color: black;
+}
+
+#footer
+{
+    background: #33A;
+    font-style: bold; color: white ;
+    font-size: large;
+    padding: 0.5em;
 }
